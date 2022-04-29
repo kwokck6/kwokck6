@@ -1,6 +1,15 @@
-### Hi there 👋
+# Kwok Chun Kiu
+A detailed resume can be found above.
 
-- 🌱 I’m currently learning data structures
+## Introduction 👋
+
+- 🎓 Education: BEng in Artificial Intelligence: Systems and Technologies (Expected: Jul 2023)
+- 🔭 Interests: 
+  - Social Analysis: Electoral analysis (prediction of results)
+  - Cantonese: Natural language processing, new Cantonese script (粵文)
+- 🌱 Currently learning:
+  - Programming languages: Swift, Kotlin
+- 📫 How to reach me: kwokchunkiu6@gmail.com
 - 😄 Pronouns: he / his
 
 <!--
