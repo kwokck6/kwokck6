@@ -1,5 +1,5 @@
 # Kwok Chun Kiu
-A detailed resume can be found above.
+<!-- A detailed resume can be found above. -->
 
 ## Introduction 👋
 
