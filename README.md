@@ -9,7 +9,6 @@
   - Cantonese: Natural language processing, new Cantonese script (粵文)
 - 🌱 Currently learning:
   - Programming languages: Swift, Kotlin
-- 📫 How to reach me: kwokchunkiu6@gmail.com
 - 😄 Pronouns: he / his
 
 <!--
