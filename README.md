@@ -4,11 +4,17 @@
 ## Introduction 👋
 
 - 🎓 Education: BEng in Artificial Intelligence: Systems and Technologies (Expected: Jul 2023)
-- 🔭 Interests: 
+- 🔭 Field of Interests:
+  - Artificial intelligence
+  - Web Development
+  - Mobile Development
+- Hobbies:
   - Social Analysis: Electoral analysis (prediction of results)
   - Cantonese: Natural language processing, new Cantonese script (粵文)
 - 🌱 Currently learning:
-  - Programming languages: Swift, Kotlin
+  - Programming languages: Java, Kotlin
+  - Database: MongoDB
+  - Backend libraries: Flask, django
 - 😄 Pronouns: he / his
 
 <!--
