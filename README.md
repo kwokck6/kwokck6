@@ -5,14 +5,15 @@
 
 - 🎓 Education: BEng in Artificial Intelligence: Systems and Technologies, CUHK
 - 🔭 Field of Interests:
-  - Artificial intelligence
-  - Web Development
+  - Data analysis
+  - Machine Learning
 - ⚡Hobbies:
   - Korean
+  - Japanese
+  - History
 - 🌱 Currently learning:
-  - Programming languages: Java, Kotlin
-  - Database: MongoDB
-  - Backend libraries: Flask, django
+  - Programming languages: Java
+  - Libraries: BigQuery
 - 😄 Pronouns: he / his
 
 <!--
